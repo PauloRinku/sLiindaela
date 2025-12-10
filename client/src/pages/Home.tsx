@@ -160,9 +160,7 @@ export default function Home() {
 
         {/* Subtítulo */}
         <p className="text-xl text-gray-300 text-center max-w-2xl mb-12">
-          Hoje é seu dia! Você é uma pessoa incrível, especial, e merece toda a
-          felicidade do mundo... Mas como somos amigos/irmãos, também merece uma
-          leve trollada. Escolha sabiamente os botões abaixo! 😈❤️
+          Hoje é seu dia!! Aqui eu deixo meus Parabéns, por mais um ano que você está completando, pode não parecer mas, isso é um ciclo muito especial, e por incrivel que parece é especial pra mim também kkj, por que a cada ano fica mais perto da gente se encontrar um dia, quem sabe... enfim kkk aproveita demais teu dia, eu te amo demais, muito, muito mesmo, e fica com a surpresinha no botão ae, ao tentar me mandar tomar no cu rsrs.
         </p>
 
         {/* Fotos espalhadas */}
