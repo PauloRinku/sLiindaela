@@ -153,9 +153,9 @@ export default function Home() {
       <div className="relative z-10 min-h-screen flex flex-col items-center justify-center px-4">
         {/* Título */}
         <h1 className="text-6xl md:text-7xl font-bold text-center mb-4 text-red-500 drop-shadow-lg">
-          FELIZ ANIVERSÁRIO,
+          Feliz Aniversário
           <br />
-          PAULO!
+          Daniela Sofia Pinto de Carvalho
         </h1>
 
         {/* Subtítulo */}
